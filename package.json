@@ -1,0 +1,19 @@
+{
+  "name": "mandatory1gregorydat15wi",
+  "version": "1.0.0",
+  "description": "grzegorz goraj 1st node asignment",
+  "main": "app01",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregGoray/asignment1greg.git"
+  },
+  "author": "grzegorz goraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregGoray/asignment1greg/issues"
+  },
+  "homepage": "https://github.com/GregGoray/asignment1greg#readme"
+}
