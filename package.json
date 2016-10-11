@@ -1,8 +1,8 @@
 {
-  "name": "mandatory1gregorydat15wi",
+  "name": "Express",
   "version": "1.0.0",
   "description": "grzegorz goraj 1st node asignment",
-  "main": "app01",
+  "main": "express.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
